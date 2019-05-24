@@ -1,0 +1,29 @@
+{
+  "version": "0.0.0",
+  "author": "isoppp <prog@d2deck.com> (https://isoppp.com/)",
+  "name": "gridsome-plugin-sass-resources-loader",
+  "description": "SASS resources (e.g. variables, mixins etc.) module for Gridsome",
+  "bugs": {
+    "url": "https://github.com/isoppp/gridsome-plugin-sass-resources-loader/issues"
+  },
+  "homepage": "https://github.com/isoppp/gridsome-plugin-sass-resources-loader/tree/master/packages/sass-resources-loader#readme",
+  "repository": "https://github.com/isoppp/gridsome-plugin-sass-resources-loader/tree/master/packages/sass-resources-loader",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "sass",
+    "scss",
+    "sass-resources-loader"
+  ],
+  "dependencies": {
+    "sass-resources-loader": "^2.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=8.3"
+  }
+}
