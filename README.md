@@ -1,3 +1,7 @@
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+[![npm version](https://badge.fury.io/js/gridsome-plugin-sass-resources-loader.svg)](https://badge.fury.io/js/gridsome-plugin-sass-resources-loader)
+[![npm downloads](https://img.shields.io/npm/dw/gridsome-plugin-sass-resources-loader.svg)](https://img.shields.io/npm/dw/gridsome-plugin-sass-resources-loader.svg)
+
 # gridsome-plugin-sass-resources-loader
 
 This module does all the hard work of configuring sass-resources-loader for your Gridsome application.
