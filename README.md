@@ -6,6 +6,8 @@
 
 This module does all the hard work of configuring sass-resources-loader for your Gridsome application.
 
+If you did not setup Sass yet, look at the [official doc](https://gridsome.org/docs/assets-css/#use-sass--css-pre-processors) and setup it before using this plugin.
+
 ## Install
 
 - `yarn add gridsome-plugin-sass-resources-loader`
