@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "isoppp <prog@d2deck.com> (https://isoppp.com/)",
   "name": "gridsome-plugin-sass-resources-loader",
   "description": "SASS resources (e.g. variables, mixins etc.) module for Gridsome",
